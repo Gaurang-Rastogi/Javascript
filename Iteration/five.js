@@ -1,6 +1,6 @@
 // foreach loop
 
-const arr =["js","html","css","react.js","next.js"]
+const arr =["js","html","css","react.js"]
 arr.forEach( (item)=>{
     // console.log(item);
 });
